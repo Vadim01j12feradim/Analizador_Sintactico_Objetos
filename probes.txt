@@ -1,0 +1,120 @@
+int a;
+int suma(int a, int b){
+return a+b;
+}
+
+int main(){
+float a;
+int b;
+int c;
+c = a+b;
+c = suma(8,9);
+}
+
+int suma(){
+    return 0;
+}
+
+int a;
+int suma(int a, int b){
+int a;
+return 9;
+}
+
+
+int suma(int a, int b){
+return b;
+}
+
+
+int suma(int a){
+return a;
+}
+
+int main(){
+int c;
+c = suma(8);
+}
+
+int suma(int a, int b){
+return a;
+}
+
+int main(){
+int c;
+c = suma(8,7);
+}
+
+
+int suma(int a, int b){
+return a;
+}
+int c;
+int main(){
+int c;
+c = suma(8,7);
+}
+
+verificar 1053
+
+
+
+int i;
+int suma(int p1, int p2){
+    return p1 + 5;
+}
+
+int main(){
+    int r1,r2, res;
+    r1 = 1;
+    r2 = 2;
+    res = suma(r1,r2);
+    return 0;
+    }
+
+
+
+int main(){
+    string s;
+    int i;
+    s = "hola mundo";
+    s = "Izmael Guzman Murguia";
+    i=0;
+    while(i<9){
+        if(i==5)
+            i=9;
+        else
+            i = i+1;
+    }
+    s = "ya sali del buble";
+    return 0;
+}
+
+int main(){
+    string s;
+    int i;
+    s = "hola mundo";
+    s = "Izmael Guzman Murguia";
+    i=0;
+    if (i<9){
+            i = i+1;
+    }
+    s = "ya sali del buble";
+    return 0;
+}
+
+int main(){
+    int i;
+    i=0;
+    if (i==5)
+        i=9;
+    else
+        i = i+1;
+}
+
+int main(){
+float a;
+int b;
+int c;
+c = a+b;
+}
